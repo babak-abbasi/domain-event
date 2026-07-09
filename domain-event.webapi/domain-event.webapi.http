@@ -1,0 +1,6 @@
+@domain_event.webapi_HostAddress = http://localhost:5208
+
+GET {{domain_event.webapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
